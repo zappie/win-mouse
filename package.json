@@ -1,6 +1,6 @@
 {
   "name": "@kelvin.edosa/win-mouse",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Mouse tracking for Windows",
   "main": "index.js",
   "gypfile": true,
