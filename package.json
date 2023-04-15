@@ -33,9 +33,6 @@
     "node-addon-api": "^3.1.0",
     "node-gyp-build": "^4.2.1"
   },
-  "os": [
-    "win32"
-  ],
   "devDependencies": {
     "standard": "^14.3.4"
   },
